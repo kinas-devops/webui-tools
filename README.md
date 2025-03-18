@@ -38,7 +38,7 @@ I'm an amateur enthusiast of the magic of AI image generation using the powerful
 > Hugging Face:
 > https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending
 > 
-![]([Models]_2987955084_39424x1012_cfg7_steps20_Euler a.png)
+![Alt text](images/matrix1.png)
 
 Notes:
 My Graphics Card:
